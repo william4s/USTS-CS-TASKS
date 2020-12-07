@@ -34,3 +34,4 @@ with open("file.out", "w") as file:
         for f in p:
             file.write("%5d"%f)
         file.write("\n")
+ #如果对你有帮助，不妨右上角star一下以表支持
